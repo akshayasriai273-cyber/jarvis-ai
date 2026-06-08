@@ -49,7 +49,7 @@ GEMINI_API_KEY=your_api_key_here
 Run the project:
 
 ```bash
-python jarvis.py
+py-3.11 jarvis.py
 ```
 
 ## Future Improvements
